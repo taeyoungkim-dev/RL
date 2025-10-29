@@ -1,0 +1,11 @@
+.vscode/
+.venv/
+*.zip
+# (나중에 쓸 수도 있는 파일들)
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# TensorBoard 로그
+ppo_lunar_tensorboard/
