@@ -1,6 +1,7 @@
 .vscode/
 .venv/
 *.zip
+mujoco_rl/
 # (나중에 쓸 수도 있는 파일들)
 *.pt
 *.pth
